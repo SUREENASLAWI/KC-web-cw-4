@@ -15,6 +15,7 @@ margin: auto;
 border-radius: 50%;
 opacity: 0.5;
 transition: all 0.5s;
+box-shadow: 3px 3px 3px black;
 }
 
 .circle:hover{
